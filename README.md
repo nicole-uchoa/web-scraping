@@ -1,4 +1,4 @@
-# web-scraping
+# WebScraping
 
 ## Prerequisites
 - python3.8
